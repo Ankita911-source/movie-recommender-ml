@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+movie_rec_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+*.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+
+# Dataset
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv.zip
+tmdb_5000_movies.csv.zip
